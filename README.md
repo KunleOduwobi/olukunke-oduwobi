@@ -1,2 +1,2 @@
-# olukunke-oduwobi
+# olukunle-oduwobi
 SQE Home Challenge
