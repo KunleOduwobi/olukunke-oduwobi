@@ -503,3 +503,50 @@ MENU AND OTHER TASKS
 *Other Suites to be automated are Books Managements, Report, Scheduled Actions & Exports
 
 
+
+PRIORITISING AUTOMATED TEST CASES
+
+*Prioritising the test suites to be automated needs to take into consideration the business requirement. Thus, smoke tests will need to be made priority such that user can carry out the primary functions of the app without breaking the user flow.
+The smoke tests will be a collection of test cases from suites such as on-boarding, add new account, create new transactions and view account details
+
+Cases to be tested:
+
+The On-boarding and Create New Account suites will be used the describe what to test for when writing automated tests for the GnuCash app:
+
+
+Onboarding:
+
+* Verify that app is installed and launched successfully
+* Verify the new user is shown the onboarding slides
+* Verify that a Next button is shown on every screen except that last one
+* Verify that user can not proceed to a next slide if a mandatory field has not been field
+* Validate that user selections are displayed in the Review slide
+* Verify that a Done button is shown on Review slide
+* Verify that a pop-up is shown after user clicks the Done button at the Review page
+* Verify that the pop-up displays a What's New title and a version number
+* Verify that a Dismiss button is present
+* Verify that clicking the Dismiss button closes the pop-up
+* Verify that when user quits and reopens that app, user will no longer be taken through on-boarding
+
+Create New Account:
+
+* Verify that returning user is shown the Accounts list
+* Verify that FAB button is visible on screen
+* Verify that clicking the FAB button opens the Create Account page
+* Verify that Account Name place holder is displayed
+* Verify that user can enter account name
+* Verify that Currency label is displayed
+* Validate selected currency is what was selected during on-boarding
+* Verify that Account Colour & Type label is displayed
+* Verify that user can list account types
+* Verify that use can select an account type
+* Verify that the Account Description placeholder is displayed
+* Verify that user can enter an account description
+* Verify that the Save button is displayed
+* Verify that when user clicks the Save button, user is taken back to the Accounts page
+* Verify that the newly created account is found in the account list
+
+
+The proposed test cases have been automated and included in this repository using the TestNG framework with Appium and Selenium. The tests were written with Java, which could be used for integration and system and user acceptance test levels
+
+
