@@ -547,6 +547,36 @@ Create New Account:
 * Verify that the newly created account is found in the account list
 
 
-The proposed test cases have been automated and included in this repository using the TestNG framework with Appium and Selenium. The tests were written with Java, which could be used for integration and system and user acceptance test levels
+The proposed test cases have been automated and included in this repository using the TestNG framework with Appium and Selenium. The tests were written with Java, which could be used for integration, system and user acceptance test levels. Due to the nature of automated testing, they are most suited to regression testing, repeatitive tasks and stable features of an application.
+
+PROS OF USING AUTOMATED TESTING
+
+During regression testing, some of the pros of adopting automated tests include:
+
+* Reliable: Tests perform precisely the same operations each time they are run, thereby eliminating human error
+
+* Programmable: Sophisticated tests can be programmed that bring out hidden information from the application.
+
+* Comprehensive: A suite of tests that covers every feature in your application can be written.
+
+* Reusable: Tests can be used over again on different versions of an application, even if the user interface changes.
+
+* Fast: Automated Tools run tests significantly faster than human users.
+
+* Economical: As the number of resources for regression test are reduced
 
 
+CONS OF USING AUTOMATED TESTING
+
+Some of the challenges faced during automated testing include:
+
+* Extra skills and experienced are required to write the automation test scripts.
+
+* One still needs to have a full understanding of the test object before being able to develop an automation plan
+
+* Debugging the test script is major issue. If any error is present in the test script, sometimes it may lead to deadly consequences - including production of false positives and false negatives.
+
+* Maintenance of test data files is difficult, if the test script tests more screens.
+
+
+*Tests have been automated for the GnuCash app, as descibed in the README document
