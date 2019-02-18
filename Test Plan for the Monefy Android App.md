@@ -36,7 +36,7 @@ The tests are:
 Below are test suites with test cases to be executed on the Monefy app with respect to business priority:
 
 
-SUITE NAME: INSTALLATION & COMPATIBILITY TESTING
+* SUITE NAME: INSTALLATION & COMPATIBILITY TESTING
 
 
 Case 1: OS compatibility
@@ -88,7 +88,7 @@ Expected Result: Verify app is uninstalled and user data is deleted
 
 
 
-SUITE NAME: USABILITY TESTING
+* SUITE NAME: USABILITY TESTING
 
 
 Case 1: App onboarding
@@ -178,7 +178,7 @@ Expected Result: Verify that a corresponding page title is always displayed
 
 
 
-SUITE NAME: FUNCTIONAL TESTING
+* SUITE NAME: FUNCTIONAL TESTING
 
 Case 1: App Installation & launch
 
@@ -416,13 +416,13 @@ Expected Result: Verify that new account has been added to the accounts list
 
 Some of the usability issues experienced while testing the Monefy Android app are:
 
-When user clicks the back button while selecting income category, income amount is lost.
+* When user clicks the back button while selecting income category, income amount is lost.
 
-Some buttons appear behind the keyboard, so user will always have to close the keyboard before a page can be submitted.
+* Some buttons appear behind the keyboard, so user will always have to close the keyboard before a page can be submitted.
 
-No confirmation is shown when user deletes account record or category type - this is required in order to prevent user from mistakenly making a delete action.
+* No confirmation is shown when user deletes account record or category type - this is required in order to prevent user from mistakenly making a delete action.
 
-User is unable to add transfer notes unless back button is clicked to dismiss the keyboard.
+* User is unable to add transfer notes unless back button is clicked to dismiss the keyboard.
 
 
 
