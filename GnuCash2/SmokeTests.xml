@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Smoke Tests">
+	<parameter name="app-name" value="GnucashAndroid_v2.4.0.apk" />
+	<parameter name="app-version" value="Version 2.4.0" />
+	<parameter name="country" value="Nigeria" />
+	<parameter name="port-number" value="4723" />
+	<parameter name="deviceId" value="ZY32237MNV" />
+	<parameter name="android-version" value="8.1" />
+
+	<test name="Verify Onboarding Slides">
+		<parameter name="app-session" value="false" />
+		<parameter name="TestMode" value="Onboarding" />
+		<classes>
+			<class name="N26.GnuCash2.Onboarding" />
+		</classes>
+	</test>
+
+	<test name="Create New Transaction Account">
+		<parameter name="app-session" value="true" />
+		<parameter name="TestMode" value="Create Transaction" />
+		<parameter name="AccountName" value="Account Test" />
+		<parameter name="AccountType" value="BANK" />
+		<parameter name="AccountDescription" value="Test Description" />
+		<classes>
+			<class name="N26.GnuCash2.CreateTransaction" />
+		</classes>
+	</test>
+
+
+</suite>
+
+

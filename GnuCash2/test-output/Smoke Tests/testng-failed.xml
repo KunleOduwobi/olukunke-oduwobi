@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Smoke Tests]">
+  <parameter name="country" value="Nigeria"/>
+  <parameter name="android-version" value="8.1"/>
+  <parameter name="port-number" value="4723"/>
+  <parameter name="deviceId" value="ZY32237MNV"/>
+  <parameter name="app-name" value="GnucashAndroid_v2.4.0.apk"/>
+  <parameter name="app-version" value="Version 2.4.0"/>
+  <test name="Verify Onboarding Slides(failed)">
+    <parameter name="app-session" value="false"/>
+    <parameter name="TestMode" value="Onboarding"/>
+    <classes>
+      <class name="N26.GnuCash2.Onboarding">
+        <methods>
+          <include name="setUp"/>
+          <include name="onboarding" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- N26.GnuCash2.Onboarding -->
+      <class name="N26.GnuCash2.CreateTransaction">
+        <methods>
+          <include name="shutDown"/>
+          <include name="setUp"/>
+          <include name="afterSuite"/>
+          <include name="PreSetUp"/>
+        </methods>
+      </class> <!-- N26.GnuCash2.CreateTransaction -->
+    </classes>
+  </test> <!-- Verify Onboarding Slides(failed) -->
+</suite> <!-- Failed suite [Smoke Tests] -->

@@ -1,0 +1,248 @@
+2019-02-18 17:30:02,009 [main] INFO SetUp - App launched
+2019-02-18 17:30:02,032 [main] INFO Onboarding.onboarding - Test Case: Onboarding
+2019-02-18 17:30:03,959 [main] INFO Onboarding.onboarding - 1st Slide Title validated: Welcome to GnuCash
+2019-02-18 17:30:04,106 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:30:04,259 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:30:05,656 [main] INFO Onboarding.onboarding - 2nd Slide Title validated: Default Currency
+2019-02-18 17:30:05,839 [main] INFO Onboarding.onboarding - Currency listed: CHF
+2019-02-18 17:30:05,913 [main] INFO Onboarding.onboarding - Currency listed: EUR
+2019-02-18 17:30:06,003 [main] INFO Onboarding.onboarding - Currency listed: GBP
+2019-02-18 17:30:06,079 [main] INFO Onboarding.onboarding - Currency listed: USD
+2019-02-18 17:30:06,153 [main] INFO Onboarding.onboarding - Currency listed: Other…
+2019-02-18 17:30:06,226 [main] INFO Onboarding.onboarding - Euro currency selected
+2019-02-18 17:30:07,376 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:30:07,524 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:30:07,713 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:30:08,954 [main] INFO Onboarding.onboarding - 3rd Slide Title validated: Account Setup
+2019-02-18 17:30:09,091 [main] INFO Onboarding.onboarding - Account options listed: Create default accounts
+2019-02-18 17:30:09,139 [main] INFO Onboarding.onboarding - Account options listed: Import my accounts
+2019-02-18 17:30:09,230 [main] INFO Onboarding.onboarding - Account options listed: Let me handle it
+2019-02-18 17:30:09,304 [main] INFO Onboarding.onboarding - 'Create default accounts' option selected
+2019-02-18 17:30:09,950 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:30:10,091 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:30:10,238 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:30:11,409 [main] INFO Onboarding.onboarding - 4th Slide Title validated: Feedback Options
+2019-02-18 17:30:11,992 [main] INFO Onboarding.onboarding - Feedback options listed: Automatically send crash reports
+2019-02-18 17:30:12,060 [main] INFO Onboarding.onboarding - Feedback options listed: Disable crash reports
+2019-02-18 17:30:12,133 [main] INFO Onboarding.onboarding - 'Disable crash reports' option selected
+2019-02-18 17:30:12,937 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:30:13,066 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:30:13,209 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:30:14,785 [main] INFO Onboarding.onboarding - 5th Slide Title validated: Review
+2019-02-18 17:30:15,082 [main] INFO Onboarding.onboarding - Default Currency validated: EUR
+2019-02-18 17:30:15,168 [main] INFO Onboarding.onboarding - Account Setup validated: Create default accounts
+2019-02-18 17:30:15,251 [main] INFO Onboarding.onboarding - Feedback Options validated: Disable crash reports
+2019-02-18 17:30:15,370 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:30:15,493 [main] INFO Onboarding.onboarding - Done button found
+2019-02-18 17:30:15,627 [main] INFO Onboarding.onboarding - Done  button clicked
+2019-02-18 17:30:19,262 [main] INFO Onboarding.onboarding - Alert title validated: What's New - v2.4.0
+2019-02-18 17:30:19,334 [main] INFO Onboarding.onboarding - Dismiss button found
+2019-02-18 17:30:19,435 [main] INFO Onboarding.onboarding - Dismiss button clicked
+2019-02-18 17:30:24,438 [main] INFO Onboarding.onboarding - Test case completed!
+2019-02-18 17:30:26,878 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:30:30,192 [main] INFO SetUp - App Closed
+2019-02-18 17:34:00,004 [main] INFO SetUp - App launched
+2019-02-18 17:34:00,034 [main] INFO Onboarding.onboarding - Test Case: Onboarding
+2019-02-18 17:34:01,143 [main] INFO Onboarding.onboarding - 1st Slide Title validated: Welcome to GnuCash
+2019-02-18 17:34:01,269 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:34:01,442 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:34:02,797 [main] INFO Onboarding.onboarding - 2nd Slide Title validated: Default Currency
+2019-02-18 17:34:02,986 [main] INFO Onboarding.onboarding - Currency listed: CHF
+2019-02-18 17:34:03,073 [main] INFO Onboarding.onboarding - Currency listed: EUR
+2019-02-18 17:34:03,157 [main] INFO Onboarding.onboarding - Currency listed: GBP
+2019-02-18 17:34:03,240 [main] INFO Onboarding.onboarding - Currency listed: USD
+2019-02-18 17:34:03,311 [main] INFO Onboarding.onboarding - Currency listed: Other…
+2019-02-18 17:34:03,394 [main] INFO Onboarding.onboarding - Euro currency selected
+2019-02-18 17:34:04,204 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:34:04,342 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:34:04,502 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:34:05,747 [main] INFO Onboarding.onboarding - 3rd Slide Title validated: Account Setup
+2019-02-18 17:34:05,886 [main] INFO Onboarding.onboarding - Account options listed: Create default accounts
+2019-02-18 17:34:05,944 [main] INFO Onboarding.onboarding - Account options listed: Import my accounts
+2019-02-18 17:34:06,006 [main] INFO Onboarding.onboarding - Account options listed: Let me handle it
+2019-02-18 17:34:06,077 [main] INFO Onboarding.onboarding - 'Create default accounts' option selected
+2019-02-18 17:34:06,728 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:34:06,866 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:34:07,015 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:34:08,182 [main] INFO Onboarding.onboarding - 4th Slide Title validated: Feedback Options
+2019-02-18 17:34:08,300 [main] INFO Onboarding.onboarding - Feedback options listed: Automatically send crash reports
+2019-02-18 17:34:08,349 [main] INFO Onboarding.onboarding - Feedback options listed: Disable crash reports
+2019-02-18 17:34:08,415 [main] INFO Onboarding.onboarding - 'Disable crash reports' option selected
+2019-02-18 17:34:09,205 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:34:09,805 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:34:09,944 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:34:11,099 [main] INFO Onboarding.onboarding - 5th Slide Title validated: Review
+2019-02-18 17:34:11,262 [main] INFO Onboarding.onboarding - Default Currency validated: EUR
+2019-02-18 17:34:11,350 [main] INFO Onboarding.onboarding - Account Setup validated: Create default accounts
+2019-02-18 17:34:11,526 [main] INFO Onboarding.onboarding - Feedback Options validated: Disable crash reports
+2019-02-18 17:34:12,102 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:34:12,214 [main] INFO Onboarding.onboarding - Done button found
+2019-02-18 17:34:12,357 [main] INFO Onboarding.onboarding - Done  button clicked
+2019-02-18 17:34:15,216 [main] INFO Onboarding.onboarding - Alert title validated: What's New - v2.4.0
+2019-02-18 17:34:15,315 [main] INFO Onboarding.onboarding - Dismiss button found
+2019-02-18 17:34:15,416 [main] INFO Onboarding.onboarding - Dismiss button clicked
+2019-02-18 17:34:20,417 [main] INFO Onboarding.onboarding - Test case completed!
+2019-02-18 17:34:24,903 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:34:28,904 [main] INFO SetUp - App Closed
+2019-02-18 17:35:08,155 [main] INFO SetUp - App launched
+2019-02-18 17:35:08,160 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test Case: Create Transaction
+2019-02-18 17:35:09,637 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button found
+2019-02-18 17:35:09,978 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button clicked
+2019-02-18 17:35:12,787 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create Account found
+2019-02-18 17:35:13,042 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account Name place holder validated: Account name
+2019-02-18 17:35:14,838 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account name entered: Account Test
+2019-02-18 17:35:25,717 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Keyboard hidden
+2019-02-18 17:35:26,959 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Default currency validated: EUR - Euro
+2019-02-18 17:35:27,097 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account types listed
+2019-02-18 17:35:30,304 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account type selected
+2019-02-18 17:35:30,505 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Selected account type validated: BANK
+2019-02-18 17:35:30,747 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Decription placeholder validated: Account description
+2019-02-18 17:35:31,409 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account description entered
+2019-02-18 17:35:32,007 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Save button clicked
+2019-02-18 17:35:34,147 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Created account found: Account Test
+2019-02-18 17:35:39,151 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test case completed!
+2019-02-18 17:35:42,318 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:35:45,604 [main] INFO SetUp - App Closed
+2019-02-18 17:44:48,610 [main] INFO SetUp - App launched
+2019-02-18 17:44:48,625 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test Case: Create Transaction
+2019-02-18 17:44:49,367 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button found
+2019-02-18 17:44:50,023 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button clicked
+2019-02-18 17:44:52,244 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create Account found
+2019-02-18 17:44:52,500 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account Name place holder validated: Account name
+2019-02-18 17:44:54,241 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account name entered: Account Test
+2019-02-18 17:44:56,377 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Keyboard hidden
+2019-02-18 17:44:57,146 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Default currency validated: EUR - Euro
+2019-02-18 17:44:57,315 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account types listed
+2019-02-18 17:44:59,628 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account type selected
+2019-02-18 17:45:00,396 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Selected account type validated: BANK
+2019-02-18 17:45:00,630 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Decription placeholder validated: Account description
+2019-02-18 17:45:01,276 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account description entered
+2019-02-18 17:45:01,881 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Save button clicked
+2019-02-18 17:45:03,464 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Created account found: Account Test
+2019-02-18 17:45:08,469 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test case completed!
+2019-02-18 17:45:20,714 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:45:24,056 [main] INFO SetUp - App Closed
+2019-02-18 17:46:26,337 [main] INFO SetUp - App launched
+2019-02-18 17:46:26,359 [main] INFO Onboarding.onboarding - Test Case: Onboarding
+2019-02-18 17:46:27,175 [main] INFO Onboarding.onboarding - 1st Slide Title validated: Welcome to GnuCash
+2019-02-18 17:46:27,306 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:46:27,453 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:46:29,287 [main] INFO Onboarding.onboarding - 2nd Slide Title validated: Default Currency
+2019-02-18 17:46:29,464 [main] INFO Onboarding.onboarding - Currency listed: CHF
+2019-02-18 17:46:29,524 [main] INFO Onboarding.onboarding - Currency listed: EUR
+2019-02-18 17:46:29,572 [main] INFO Onboarding.onboarding - Currency listed: GBP
+2019-02-18 17:46:29,628 [main] INFO Onboarding.onboarding - Currency listed: USD
+2019-02-18 17:46:29,679 [main] INFO Onboarding.onboarding - Currency listed: Other…
+2019-02-18 17:46:30,464 [main] INFO Onboarding.onboarding - Euro currency selected
+2019-02-18 17:46:30,626 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:46:31,249 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:46:31,415 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:46:32,700 [main] INFO Onboarding.onboarding - 3rd Slide Title validated: Account Setup
+2019-02-18 17:46:33,286 [main] INFO Onboarding.onboarding - Account options listed: Create default accounts
+2019-02-18 17:46:33,327 [main] INFO Onboarding.onboarding - Account options listed: Import my accounts
+2019-02-18 17:46:33,367 [main] INFO Onboarding.onboarding - Account options listed: Let me handle it
+2019-02-18 17:46:33,428 [main] INFO Onboarding.onboarding - 'Create default accounts' option selected
+2019-02-18 17:46:34,080 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:46:34,199 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:46:34,340 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:46:35,976 [main] INFO Onboarding.onboarding - 4th Slide Title validated: Feedback Options
+2019-02-18 17:46:36,128 [main] INFO Onboarding.onboarding - Feedback options listed: Automatically send crash reports
+2019-02-18 17:46:36,196 [main] INFO Onboarding.onboarding - Feedback options listed: Disable crash reports
+2019-02-18 17:46:36,269 [main] INFO Onboarding.onboarding - 'Disable crash reports' option selected
+2019-02-18 17:46:37,057 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:46:37,164 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:46:37,334 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:46:38,625 [main] INFO Onboarding.onboarding - 5th Slide Title validated: Review
+2019-02-18 17:46:38,779 [main] INFO Onboarding.onboarding - Default Currency validated: EUR
+2019-02-18 17:46:38,850 [main] INFO Onboarding.onboarding - Account Setup validated: Create default accounts
+2019-02-18 17:46:39,101 [main] INFO Onboarding.onboarding - Feedback Options validated: Disable crash reports
+2019-02-18 17:46:39,220 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:46:39,317 [main] INFO Onboarding.onboarding - Done button found
+2019-02-18 17:46:39,427 [main] INFO Onboarding.onboarding - Done  button clicked
+2019-02-18 17:46:41,678 [main] INFO Onboarding.onboarding - Alert title validated: What's New - v2.4.0
+2019-02-18 17:46:41,748 [main] INFO Onboarding.onboarding - Dismiss button found
+2019-02-18 17:46:41,845 [main] INFO Onboarding.onboarding - Dismiss button clicked
+2019-02-18 17:46:46,847 [main] INFO Onboarding.onboarding - Test case completed!
+2019-02-18 17:46:51,666 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:46:56,627 [main] INFO SetUp - App Closed
+2019-02-18 17:47:40,387 [main] INFO SetUp - App launched
+2019-02-18 17:47:40,391 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test Case: Create Transaction
+2019-02-18 17:47:41,137 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button found
+2019-02-18 17:47:41,329 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button clicked
+2019-02-18 17:47:43,799 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create Account found
+2019-02-18 17:47:44,052 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account Name place holder validated: Account name
+2019-02-18 17:47:46,203 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account name entered: Account Test
+2019-02-18 17:47:53,575 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Keyboard hidden
+2019-02-18 17:47:54,361 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Default currency validated: EUR - Euro
+2019-02-18 17:47:54,503 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account types listed
+2019-02-18 17:47:56,673 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account type selected
+2019-02-18 17:47:57,446 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Selected account type validated: BANK
+2019-02-18 17:47:57,687 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Decription placeholder validated: Account description
+2019-02-18 17:47:58,828 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account description entered
+2019-02-18 17:47:59,427 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Save button clicked
+2019-02-18 17:48:01,099 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Created account found: Account Test
+2019-02-18 17:48:06,099 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test case completed!
+2019-02-18 17:48:10,687 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:48:14,893 [main] INFO SetUp - App Closed
+2019-02-18 17:51:39,796 [main] INFO SetUp - App launched
+2019-02-18 17:51:39,819 [main] INFO Onboarding.onboarding - Test Case: Onboarding
+2019-02-18 17:51:41,139 [main] INFO Onboarding.onboarding - 1st Slide Title validated: Welcome to GnuCash
+2019-02-18 17:51:41,268 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:51:41,422 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:51:42,774 [main] INFO Onboarding.onboarding - 2nd Slide Title validated: Default Currency
+2019-02-18 17:51:42,963 [main] INFO Onboarding.onboarding - Currency listed: CHF
+2019-02-18 17:51:43,015 [main] INFO Onboarding.onboarding - Currency listed: EUR
+2019-02-18 17:51:43,095 [main] INFO Onboarding.onboarding - Currency listed: GBP
+2019-02-18 17:51:43,182 [main] INFO Onboarding.onboarding - Currency listed: USD
+2019-02-18 17:51:43,268 [main] INFO Onboarding.onboarding - Currency listed: Other…
+2019-02-18 17:51:43,346 [main] INFO Onboarding.onboarding - Euro currency selected
+2019-02-18 17:51:44,154 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:51:44,292 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:51:44,460 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:51:45,705 [main] INFO Onboarding.onboarding - 3rd Slide Title validated: Account Setup
+2019-02-18 17:51:45,953 [main] INFO Onboarding.onboarding - Account options listed: Create default accounts
+2019-02-18 17:51:46,000 [main] INFO Onboarding.onboarding - Account options listed: Import my accounts
+2019-02-18 17:51:46,053 [main] INFO Onboarding.onboarding - Account options listed: Let me handle it
+2019-02-18 17:51:46,140 [main] INFO Onboarding.onboarding - 'Create default accounts' option selected
+2019-02-18 17:51:46,797 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:51:46,927 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:51:47,085 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:51:48,275 [main] INFO Onboarding.onboarding - 4th Slide Title validated: Feedback Options
+2019-02-18 17:51:48,380 [main] INFO Onboarding.onboarding - Feedback options listed: Automatically send crash reports
+2019-02-18 17:51:48,430 [main] INFO Onboarding.onboarding - Feedback options listed: Disable crash reports
+2019-02-18 17:51:48,497 [main] INFO Onboarding.onboarding - 'Disable crash reports' option selected
+2019-02-18 17:51:49,300 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:51:49,429 [main] INFO Onboarding.onboarding - Next button found
+2019-02-18 17:51:49,578 [main] INFO Onboarding.onboarding - Next button clicked
+2019-02-18 17:51:50,744 [main] INFO Onboarding.onboarding - 5th Slide Title validated: Review
+2019-02-18 17:51:50,905 [main] INFO Onboarding.onboarding - Default Currency validated: EUR
+2019-02-18 17:51:50,993 [main] INFO Onboarding.onboarding - Account Setup validated: Create default accounts
+2019-02-18 17:51:51,077 [main] INFO Onboarding.onboarding - Feedback Options validated: Disable crash reports
+2019-02-18 17:51:51,214 [main] INFO Onboarding.onboarding - Back button found
+2019-02-18 17:51:51,379 [main] INFO Onboarding.onboarding - Done button found
+2019-02-18 17:51:51,513 [main] INFO Onboarding.onboarding - Done  button clicked
+2019-02-18 17:51:54,353 [main] INFO Onboarding.onboarding - Alert title validated: What's New - v2.4.0
+2019-02-18 17:51:54,440 [main] INFO Onboarding.onboarding - Dismiss button found
+2019-02-18 17:51:54,537 [main] INFO Onboarding.onboarding - Dismiss button clicked
+2019-02-18 17:51:59,543 [main] INFO Onboarding.onboarding - Test case completed!
+2019-02-18 17:52:02,752 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:52:06,064 [main] INFO SetUp - App Closed
+2019-02-18 17:52:34,334 [main] INFO SetUp - App launched
+2019-02-18 17:52:34,340 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test Case: Create Transaction
+2019-02-18 17:52:35,073 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button found
+2019-02-18 17:52:35,279 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create New Transaction button clicked
+2019-02-18 17:52:37,430 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Create Account found
+2019-02-18 17:52:37,682 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account Name place holder validated: Account name
+2019-02-18 17:52:39,409 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account name entered: Account Test
+2019-02-18 17:52:40,783 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Keyboard hidden
+2019-02-18 17:52:41,558 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Default currency validated: EUR - Euro
+2019-02-18 17:52:41,699 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account types listed
+2019-02-18 17:52:43,874 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account type selected
+2019-02-18 17:52:44,720 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Selected account type validated: BANK
+2019-02-18 17:52:45,007 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Decription placeholder validated: Account description
+2019-02-18 17:52:45,688 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Account description entered
+2019-02-18 17:52:46,296 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Save button clicked
+2019-02-18 17:52:48,405 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Created account found: Account Test
+2019-02-18 17:52:53,405 [main] INFO CreateTransactionPageObject.createTransactionPageObject - Test case completed!
+2019-02-18 17:52:55,804 [main] INFO SetUp - Screenshot taken
+2019-02-18 17:52:59,133 [main] INFO SetUp - App Closed
