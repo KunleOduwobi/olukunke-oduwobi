@@ -428,5 +428,78 @@ Some of the usability issues experienced while testing the Monefy Android app ar
 
 
 
+TASK TWO
+
+Writing automated tests for the GnuCash app will cover actions that can be carried by the end user directly in the app. For the purpose of good coverage, the cases that should be automated have been grouped into suites as listed below:
+
+ONBOARDING SUITE
+* Verify that onboarding slides are displayed
+* Verify the user is unable to proceed to next slide if a mandatory radio button is not selected
+* Validate selected options in previous screen are displayed in the review screen
+* Check for new version message dialog & dismiss
+* Verify that user lands on ALL accounts tab with Assets, Equity, Expenses, Income & Liabilities accounts listed
+* Verify that screen contains 'Accounts' page title
+* Verify that screen contains menu and search buttons
+* Verify that screen contains Recent, All and Favourites tabs
+* Verify that screen contains a FAB button
+* Verify that no recent account is displayed for new user
+* Verify that no favourite account is displayed for new user
+* Verify that clicking the menu button displays the menu with expected features
+
+
+ACCOUNT VIEW SUITE
+* Verify that each account displayed in the list shows a count of all sub-accounts as well as each total value
+* Verify that favourite and menu buttons are displayed for each account
+* Verify that clicking on an account opens a sub-account screen that shows a count of sub-accounts and total value
+* Verify that clicking on a sub-account opens another sub-account screen that shows amount of each account
+* Verify that the number of sub-accounts listed equals the number of count in the selected account
+
+CREATE ACCOUNT SUITE
+* Verify that click the FAB button takes user to a screen to create account
+* Verify that user can add new account information and save
+* Verify that when new parent account is being created, the parent account menu is disabled
+* Verify that newly created sub-account exists as a sub-account in the selected parent account
+
+EDIT ACCOUNT SUITE
+* Verify that clicking the menu button in an account list displays the Edit Account option
+* Verify that clicking the Edit Account option opens the Edit Account screen that shows the selected account name
+* Verify that user can edit account name, currency, colour, type and description
+* Verify that changes are discarded when user clicks the X button
+* Verify that when user clicks the Save button, changes made are displayed in the updated account details
+* Repeat above test cases for sub-accounts
+
+DELETE ACOUNT SUITE
+* Verify that clicking the menu button in an account list displays the Delete option
+* Verify that when user clicks the Delete option for an account with no sub-account, no dialog is shown
+* Verify that when user clicks the Delete option for a parent account with sub-account(s), a dialog is displayed asking user what to do with sub-account
+* Verify that when account is deleted, account is no longer in accounts list
+* Verify that no result is returned when deleted parent and sub-accounts are searched
+
+
+FAVOURITE LIST SUITE
+* Verify that favourite and menu buttons are displayed for each account
+* Verify that clicking the favourite button on an account fills the star icon, and that the account is added to the favourites list
+* Verify that clicking the favourite icon on a favorited account empties the star icon, and removes the account from the favourites list
+
+SEARCH SUITE
+* Verify that the search icon is displayed
+* Verify that when user clicks the search icon, a search input text is displayed with a placeholder
+* Verify that suggestions are listed as soon as the first character is typed in the search bar
+* Verify that when an existing term is searched, a matching result is displayed in the search result
+* Verify that when a non-existing term is searched, a "No account to display" message is returned as the search result
+
+MENU AND OTHER TASKS
+* Verify that app menu button is displayed
+* Verify that clicking the app menu displays the app name & icon, current book name, as well as the Accounts, Transactions and Preferences sections
+* Verify that clicking the app menu and icon takes user to the ALL transactions list
+* Verify that clicking the book name shows a drop-down with a list of availables books, and an option to add book
+* Verify that clicking the Favourite button takes user to the Favourites screen
+* Verify that clicking the Reports button takes user to the Reports screen
+* Verify that clicking the Scheduled Actions button takes user to the Scheduled Actions screen
+* Verify that clicking the Export Transactions button takes user the Export Transactions screen
+* Verify that clicking the Settings button takes user to the Settings screen
+* Verify that clicking the Help and Feedback buttons load a page: Error connecting to user voice shown
+
+*Other Suites to be automated are Books Managements, Report, Scheduled Actions & Exports
 
 
