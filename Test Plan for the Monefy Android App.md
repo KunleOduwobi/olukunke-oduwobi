@@ -1,3 +1,5 @@
+TASK ONE
+
 TEST COVERAGE FOR THE MONEFY ANDROID APP
 
 The tests would be grouped into the following suites: 
@@ -173,6 +175,241 @@ Case 12: Page titles
 Steps: Navigate through different pages in the app 
 
 Expected Result: Verify that a corresponding page title is always displayed
+
+
+
+SUITE NAME: FUNCTIONAL TESTING
+
+Case 1: App Installation & launch
+
+Steps: Install and launch app
+
+Expected Result: Verify that app is launched successfully and user is shown a dashboard of account balance
+
+
+Case 2: App menu
+
+Step: Click the app menu at the top left corner of the screen
+
+Expected Result: Verify that menu drawer slides out with a "All Account" drop-down and period filters
+
+
+Case 3: Account type
+
+Step: From the app menu, select Cash or Payment Card account
+
+Expected Result: Verify that user is taken to the dashboard with summary of transactions in selected account type
+
+
+Case 4: Filter dashboard
+
+Steps: From the app menu, click a period button
+
+Expected Result: Verify that selected period is displayed at the top the dashboard; 
+Verify that only transactions within the selected period are displayed
+
+
+Case 5: Choose filter date
+
+Steps: From the app menu, click the Choose date button
+
+Expected Result: Verify that calendar is displayed to select a date
+
+
+Case 6: Expense information 
+
+Steps: From the dashboard, tap and hold an icon
+
+Expected Result: Verify that the corresponding expense information is displayed the in the center donut
+
+
+Case 7: Add expense
+
+Step: Click an expense icon
+
+Expected Result: Verify that user is taken to corresponding expense page
+
+
+Case 8: Compute expense
+
+Steps: Enter a note; 
+Enter expense amount; 
+Use an arithmetic operator and enter another amount
+
+Expected Result: Verify that expense amount is computed correctly
+
+
+Case 9: Submit expense
+
+Step: After expense has been entered, click the 'ADD ...' button
+
+Expected Result: Verify that user is taken back to dashboard; 
+Verify that total expense and balance amount are re-computed
+
+
+Case 10: Display income page
+
+Step: Click the Income button
+
+Expected Result: Verify that the Income screen is displayed
+
+
+Case 11: Compute income
+
+Steps: Enter a note; 
+Enter income amount; 
+Use an arithmetic operator and enter another amount
+
+Expected Result: Verify that income amount is computed correctly
+
+
+Case 12: Income category
+
+Step: Click the Choose Category and select a category
+
+Expected Result: Verify that user is taken back to dashboard; 
+Verify that total income and balance amount are re-computed
+
+
+Case 13: Account Summary
+
+Step: Click the Balance button
+
+Expected Result: Verify that a summary of each expense and income is listed with amount; 
+Verify that the number of items in each income & expense is displayed
+
+
+Case 14: Account detail
+
+Step: Click a category from the account summary list
+
+Expected Result: Verify that all items in a selected category is listed
+
+
+Case 15: Item detail
+
+Step: Click an item listed under a category
+
+Expected Result: Verify that the details of selected item is displayed
+
+
+Case 16: Delete item
+
+Step: From an item detail page, click the Delete icon at the top right corner of the page
+
+Expected Result: Verify that record is deleted and toast message is displayed
+
+
+Case 17: New transfer
+
+Step: Click the transfer button 
+
+Expected Result: Verify that user is taken to the New Transfer screen
+
+
+Case 18: Make transfer
+
+Step: Enter transfer amount and click Add Transfer button
+
+Expected Result: Verify a transfer success toast message is displayed
+
+
+Case 19: App right menu
+
+Step: Click the menu button at the top left corner of the screen
+
+Expected Result: Verify that the app menu is slided out
+
+
+Case 20: Categories
+
+Step: From the right menu, select the Categories option
+
+Expected Result: A list of Expenses and Income categories are displayed
+
+
+Case 21: Category detail
+
+Step: Select a category from the list of categories
+
+Expected Result: Verify that selected category page is displayed with clickable icons
+
+
+Case 22: Edit category
+
+Steps: From the category detail, tap the category title and edit; 
+Tap the enter key in the keyboard
+
+Expected Result: Verify that updated category name is saved
+
+
+Case 23: Delete category
+
+Step: From the category detail, tap the bin icon
+
+Expected Result: Verify that deleted category is no longer in category list
+
+
+Case 24: Add category
+
+Step: Click the + button in the Expenses or Income category header
+
+Expected Result: Verify that user is taken to a page to upgrade to Monefy Pro
+
+
+Case 25: Account Type
+
+Step: From the app right menu, click an account type
+
+Expected Result: Verify that details of the account type are displayed with the currency, initial balance & date
+
+
+Case 26: Include account type in balance
+
+Step: Toggle the switch to "Include in the balance"
+
+Expected Result: Verify the when switch is enabled, 
+
+
+Case 27: Account type icon
+
+Step: Select another icon for account type and return to menu
+
+Expected Result: Verify that selected icon for account type is updated
+
+
+Case 28: Disable account type
+
+Steps: Click the menu button from the account type detail page; 
+Uncheck the 'Enabled' box; 
+Return to the accounts list
+
+Expected Result: Verify that the disabled account type is greyed out
+
+
+Case 29: Enable account type
+
+Steps: Click the menu button from the account type detail page; 
+Check the 'Enabled' box; 
+Return to the accounts list
+
+Expected Result: Verify that the enabled account is no longer greyed out 
+
+
+Case 30: Add account type
+
+Step: From the accounts list, click the Add button
+
+Expected Result: Verify that user is taken to the New Account page
+
+
+Case 31: Save new account
+
+Steps: Enter new account details, select an image and click ADD
+
+Expected Result: Verify that new account has been added to the accounts list
+
+
 
 
 
