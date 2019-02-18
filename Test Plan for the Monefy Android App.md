@@ -4,21 +4,21 @@ TEST COVERAGE FOR THE MONEFY ANDROID APP
 
 The tests would be grouped into the following suites: 
 
-Installation & Compatibility Testing: Test covers app installation from an app store or other media, installation on every supported operating system version, app upgrade, page orientation, and compatibility with different internet connections
+* Installation & Compatibility Testing: Test covers app installation from an app store or other media, installation on every supported operating system version, app upgrade, page orientation, and compatibility with different internet connections
 
-Usability Testing: Ensuring ease of use of the product involving user navigation, page content error checks, page alignments, useful error messages & notifications, etc
+* Usability Testing: Ensuring ease of use of the product involving user navigation, page content error checks, page alignments, useful error messages & notifications, etc
 
-Functional Testing: Test cases will be based on product specification to ensure app works as expected from user registration to the end of the product flow
+* Functional Testing: Test cases will be based on product specification to ensure app works as expected from user registration to the end of the product flow
  
-Security Testing: Test cases covers scenarios to ensure user authentication and only authorised users are allowed access to resources, as well as user-session management. This also covers cases to ensure sensitive data isn't logged and saved on device, while app only access resources whose permissions have been granted
+* Security Testing: Test cases covers scenarios to ensure user authentication and only authorised users are allowed access to resources, as well as user-session management. This also covers cases to ensure sensitive data isn't logged and saved on device, while app only access resources whose permissions have been granted
 
-Memory Leakage Testing: Covers scenarios to ensure app programs aren't holding on to memory after execution to prevent app crashes
+* Memory Leakage Testing: Covers scenarios to ensure app programs aren't holding on to memory after execution to prevent app crashes
 
-Interrupt Testing: Behaviour of the app will be evaluated during interrupts from phone calls, notifications, alarms, screen locks, orientation changes, cable connections etc
+* Interrupt Testing: Behaviour of the app will be evaluated during interrupts from phone calls, notifications, alarms, screen locks, orientation changes, cable connections etc
 
-Regression Testing: Test cases will cover existing functional tests to ensure product isn't broken after updates and code changes. This test cases are better automated for faster and effective execution
+* Regression Testing: Test cases will cover existing functional tests to ensure product isn't broken after updates and code changes. This test cases are better automated for faster and effective execution
 
-Performance Testing: This will cover behaviour of the application under expected and stress conditions to determine the system's stability as well as what improvements are required to the integrated services
+* Performance Testing: This will cover behaviour of the application under expected and stress conditions to determine the system's stability as well as what improvements are required to the integrated services
 
 
 PRIORITISATION
@@ -26,11 +26,11 @@ PRIORITISATION
 Test cases can be prioritised based on impact of app features, time and cost constraints. With respect to business impact, test cases that are blockers and critical will be selected and executed as sanity tests to ensure users can use the primary features of the app. 
 The tests are:
 
-Installation test
+* Installation test
 
-Functional test
+* Functional test
 
-Usability test
+* Usability test
 
 
 Below are test suites with test cases to be executed on the Monefy app with respect to business priority:
@@ -412,6 +412,17 @@ Expected Result: Verify that new account has been added to the accounts list
 
 
 
+**Challenges faced during testing
+
+Some of the usability issues experienced while testing the Monefy Android app are:
+
+When user clicks the back button while selecting income category, income amount is lost.
+
+Some buttons appear behind the keyboard, so user will always have to close the keyboard before a page can be submitted.
+
+No confirmation is shown when user deletes account record or category type - this is required in order to prevent user from mistakenly making a delete action.
+
+User is unable to add transfer notes unless back button is clicked to dismiss the keyboard.
 
 
 
